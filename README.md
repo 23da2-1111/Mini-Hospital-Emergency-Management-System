@@ -6,7 +6,7 @@
 **Student ID:** 23Da2-1111
 **Module:** CIT300 - Data Structures and Algorithms
 **Assignment:** Individual Mid Assignment
-**GitHub Repository:** [Paste your GitHub repository link here]
+**GitHub Repository:** https://github.com/23da2-1111/Mini-Hospital-Emergency-Management-System.git
 
 ---
 
